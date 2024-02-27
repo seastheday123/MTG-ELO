@@ -1,1 +1,0 @@
-This is the first continuation of the Magic ELO project. Here is the python program with a simple interface for users to upload and save their match results. Please see the elo_example file to see how the ELO history file is set up. The first row in each worksheet are the initial rankings and match results. 
